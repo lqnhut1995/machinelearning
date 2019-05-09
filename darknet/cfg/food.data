@@ -1,0 +1,6 @@
+classes= 39
+train  = /content/yolo/train_gc.txt
+valid  = /content/yolo/test_gc.txt
+names = /content/yolo/food.names
+backup = "/content/gdrive/My Drive/yolo_backup"
+#/content/darknet/backup
